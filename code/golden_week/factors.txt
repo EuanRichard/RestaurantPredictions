@@ -1,0 +1,23 @@
+date, air_genre_name, todofuken
+
+Italian/French
+Dining bar
+Yakiniku/Korean food
+Cafe/Sweets
+Izakaya
+Okonomiyaki/Monja/Teppanyaki
+Bar/Cocktail
+Japanese food
+Creative cuisine
+Other
+Western food, International cuisine, Asian, Karaoke/Party
+
+Hyōgo-ken
+Tōkyō-to
+Fukuoka-ken
+Ōsaka-fu
+Hiroshima-ken
+Shizuoka-ken
+Hokkaidō
+Miyagi-ken
+Niigata-ken

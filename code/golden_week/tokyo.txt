@@ -1,0 +1,89 @@
+----------------Italian/French----------------------
+Saturday factor: 1.01 +/- 0.19
+Sunday factor: 1.04 +/- 0.22
+Monday factor: 0.91 +/- 0.21
+Tuesday factor: 1.26 +/- 0.25
+Wednesday factor: 1.10 +/- 0.18
+Thursday factor: 1.45 +/- 0.29
+Week-after factor: 0.84 +/- 0.07
+----------------Dining bar----------------------
+Saturday factor: 0.73 +/- 0.11
+Sunday factor: 0.80 +/- 0.16
+Monday factor: 1.38 +/- 0.23
+Tuesday factor: 0.85 +/- 0.11
+Wednesday factor: 0.99 +/- 0.19
+Thursday factor: 1.06 +/- 0.13
+Week-after factor: 0.82 +/- 0.07
+----------------Yakiniku/Korean food----------------------
+Saturday factor: 0.88 +/- 0.17
+Sunday factor: 1.00 +/- 1.00
+Monday factor: 1.00 +/- 1.00
+Tuesday factor: 1.00 +/- 1.00
+Wednesday factor: 1.00 +/- 1.00
+Thursday factor: 1.00 +/- 1.00
+Week-after factor: 0.85 +/- 0.10
+----------------Cafe/Sweets----------------------
+Saturday factor: 1.10 +/- 0.15
+Sunday factor: 1.25 +/- 0.22
+Monday factor: 1.24 +/- 0.20
+Tuesday factor: 1.78 +/- 0.29
+Wednesday factor: 1.70 +/- 0.28
+Thursday factor: 1.84 +/- 0.38
+Week-after factor: 1.02 +/- 0.07
+----------------Izakaya----------------------
+Saturday factor: 0.90 +/- 0.13
+Sunday factor: 1.57 +/- 0.59
+Monday factor: 1.25 +/- 0.15
+Tuesday factor: 1.25 +/- 0.18
+Wednesday factor: 1.18 +/- 0.19
+Thursday factor: 0.76 +/- 0.15
+Week-after factor: 0.82 +/- 0.04
+----------------Okonomiyaki/Monja/Teppanyaki----------------------
+Week-after factor: 1.00 +/- 1.00
+----------------Bar/Cocktail----------------------
+Saturday factor: 0.91 +/- 0.21
+Sunday factor: 0.95 +/- 0.25
+Monday factor: 1.31 +/- 0.25
+Tuesday factor: 1.54 +/- 0.29
+Wednesday factor: 1.57 +/- 0.47
+Thursday factor: 1.07 +/- 0.26
+Week-after factor: 0.83 +/- 0.07
+
+
+
+
+
+
+
+----------------Japanese food----------------------
+Saturday factor: 1.06 +/- 0.22
+Sunday factor: 1.09 +/- 0.28
+Monday factor: 1.10 +/- 0.27
+Tuesday factor: 1.25 +/- 0.47
+Wednesday factor: 1.06 +/- 0.40
+Thursday factor: 1.06 +/- 0.37
+Week-after factor: 0.92 +/- 0.07
+----------------Creative cuisine----------------------
+Saturday factor: 0.39 +/- 0.17
+Sunday factor: 1.00 +/- 1.00
+Monday factor: 2.16 +/- 0.64
+Tuesday factor: 0.99 +/- 0.92
+Wednesday factor: 0.61 +/- 0.14
+Thursday factor: 1.02 +/- 0.56
+Week-after factor: 0.78 +/- 0.19
+----------------Other----------------------
+Saturday factor: 0.80 +/- 0.18
+Sunday factor: 1.04 +/- 0.43
+Monday factor: 1.07 +/- 0.26
+Tuesday factor: 1.70 +/- 0.37
+Wednesday factor: 1.32 +/- 0.35
+Thursday factor: 0.90 +/- 0.32
+Week-after factor: 0.91 +/- 0.13
+----------------Western food----------------------
+Saturday factor: 1.02 +/- 0.33
+Sunday factor: 1.02 +/- 0.35
+Monday factor: 1.72 +/- 0.82
+Tuesday factor: 1.52 +/- 0.63
+Wednesday factor: 1.90 +/- 0.84
+Thursday factor: 2.14 +/- 0.84
+Week-after factor: 0.99 +/- 0.14

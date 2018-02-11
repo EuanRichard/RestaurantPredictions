@@ -1,0 +1,71 @@
+date,air_genre_name,weekafter_factor
+2017-05-08,Italian/French,0.86 
+2017-05-09,Italian/French,0.86 
+2017-05-10,Italian/French,0.86 
+2017-05-11,Italian/French,0.86 
+2017-05-12,Italian/French,0.86 
+2017-05-08,Dining bar,0.84 
+2017-05-09,Dining bar,0.84 
+2017-05-10,Dining bar,0.84 
+2017-05-11,Dining bar,0.84 
+2017-05-12,Dining bar,0.84 
+2017-05-08,Yakiniku/Korean food,0.82 
+2017-05-09,Yakiniku/Korean food,0.82 
+2017-05-10,Yakiniku/Korean food,0.82 
+2017-05-11,Yakiniku/Korean food,0.82 
+2017-05-12,Yakiniku/Korean food,0.82 
+2017-05-08,Cafe/Sweets,0.96 
+2017-05-09,Cafe/Sweets,0.96 
+2017-05-10,Cafe/Sweets,0.96 
+2017-05-11,Cafe/Sweets,0.96 
+2017-05-12,Cafe/Sweets,0.96 
+2017-05-08,Izakaya,0.84 
+2017-05-09,Izakaya,0.84 
+2017-05-10,Izakaya,0.84 
+2017-05-11,Izakaya,0.84 
+2017-05-12,Izakaya,0.84 
+2017-05-08,Okonomiyaki/Monja/Teppanyaki,0.88 
+2017-05-09,Okonomiyaki/Monja/Teppanyaki,0.88 
+2017-05-10,Okonomiyaki/Monja/Teppanyaki,0.88 
+2017-05-11,Okonomiyaki/Monja/Teppanyaki,0.88 
+2017-05-12,Okonomiyaki/Monja/Teppanyaki,0.88 
+2017-05-08,Bar/Cocktail,0.83 
+2017-05-09,Bar/Cocktail,0.83 
+2017-05-10,Bar/Cocktail,0.83 
+2017-05-11,Bar/Cocktail,0.83 
+2017-05-12,Bar/Cocktail,0.83 
+2017-05-08,Japanese food,0.88 
+2017-05-09,Japanese food,0.88 
+2017-05-10,Japanese food,0.88 
+2017-05-11,Japanese food,0.88 
+2017-05-12,Japanese food,0.88 
+2017-05-08,Creative cuisine,0.88 
+2017-05-09,Creative cuisine,0.88 
+2017-05-10,Creative cuisine,0.88 
+2017-05-11,Creative cuisine,0.88 
+2017-05-12,Creative cuisine,0.88 
+2017-05-08,Other,0.88 
+2017-05-09,Other,0.88 
+2017-05-10,Other,0.88 
+2017-05-11,Other,0.88 
+2017-05-12,Other,0.88 
+2017-05-08,Western food,0.90 
+2017-05-09,Western food,0.90
+2017-05-10,Western food,0.90
+2017-05-11,Western food,0.90 
+2017-05-12,Western food,0.90 
+2017-05-08,International cuisine,0.88 
+2017-05-09,International cuisine,0.88
+2017-05-10,International cuisine,0.88
+2017-05-11,International cuisine,0.88 
+2017-05-12,International cuisine,0.88
+2017-05-08,Asian,0.88
+2017-05-09,Asian,0.88
+2017-05-10,Asian,0.88
+2017-05-11,Asian,0.88 
+2017-05-12,Asian,0.88 
+2017-05-08,Karaoke/Party,0.88 
+2017-05-09,Karaoke/Party,0.88
+2017-05-10,Karaoke/Party,0.88
+2017-05-11,Karaoke/Party,0.88 
+2017-05-12,Karaoke/Party,0.88 

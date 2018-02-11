@@ -1,0 +1,78 @@
+----------------Hyōgo-ken----------------------
+Saturday factor: 0.99 +/- 0.15
+Sunday factor: 1.02 +/- 0.15
+Monday factor: 1.44 +/- 0.21
+Tuesday factor: 1.77 +/- 0.25
+Wednesday factor: 2.04 +/- 0.32
+Thursday factor: 1.72 +/- 0.28
+Week-after factor: 0.88 +/- 0.06
+----------------Tōkyō-to----------------------
+Saturday factor: 0.95 +/- 0.07
+Sunday factor: 1.17 +/- 0.14
+Monday factor: 1.21 +/- 0.08
+Tuesday factor: 1.33 +/- 0.10
+Wednesday factor: 1.29 +/- 0.11
+Thursday factor: 1.21 +/- 0.11
+Week-after factor: 0.89 +/- 0.03
+----------------Fukuoka-ken----------------------
+Saturday factor: 0.91 +/- 0.09
+Sunday factor: 1.13 +/- 0.12
+Monday factor: 1.37 +/- 0.16
+Tuesday factor: 1.55 +/- 0.16
+Wednesday factor: 1.53 +/- 0.17
+Thursday factor: 1.19 +/- 0.15
+Week-after factor: 0.86 +/- 0.04
+----------------Ōsaka-fu----------------------
+Saturday factor: 1.09 +/- 0.16
+Sunday factor: 1.11 +/- 0.22
+Monday factor: 1.73 +/- 0.23
+Tuesday factor: 1.68 +/- 0.24
+Wednesday factor: 1.65 +/- 0.25
+Thursday factor: 1.56 +/- 0.28
+Week-after factor: 0.89 +/- 0.06
+----------------Hiroshima-ken----------------------
+Saturday factor: 0.90 +/- 0.12
+Sunday factor: 1.18 +/- 0.21
+Monday factor: 1.26 +/- 0.21
+Tuesday factor: 1.50 +/- 0.21
+Wednesday factor: 1.49 +/- 0.20
+Thursday factor: 0.69 +/- 0.09
+Week-after factor: 0.92 +/- 0.09
+----------------Shizuoka-ken----------------------
+Saturday factor: 1.00 +/- 0.24
+Sunday factor: 1.29 +/- 0.25
+Monday factor: 1.71 +/- 0.65
+Tuesday factor: 2.57 +/- 0.68
+Wednesday factor: 2.29 +/- 0.54
+Thursday factor: 1.73 +/- 0.61
+Week-after factor: 0.88 +/- 0.10
+
+
+
+
+
+
+----------------Hokkaidō----------------------
+Saturday factor: 0.72 +/- 0.14
+Sunday factor: 1.25 +/- 0.43
+Monday factor: 1.60 +/- 0.39
+Tuesday factor: 1.94 +/- 0.45
+Wednesday factor: 2.33 +/- 0.50
+Thursday factor: 1.54 +/- 0.37
+Week-after factor: 0.74 +/- 0.08
+----------------Miyagi-ken----------------------
+Saturday factor: 0.93 +/- 0.19
+Sunday factor: 1.19 +/- 0.25
+Monday factor: 1.35 +/- 0.22
+Tuesday factor: 1.35 +/- 0.27
+Wednesday factor: 1.19 +/- 0.17
+Thursday factor: 0.75 +/- 0.10
+Week-after factor: 0.81 +/- 0.07
+----------------Niigata-ken----------------------
+Saturday factor: 1.02 +/- 0.26
+Sunday factor: 0.57 +/- 0.25
+Monday factor: 1.58 +/- 0.57
+Tuesday factor: 2.82 +/- 0.40
+Wednesday factor: 2.00 +/- 0.30
+Thursday factor: 1.57 +/- 0.57
+Week-after factor: 0.84 +/- 0.12

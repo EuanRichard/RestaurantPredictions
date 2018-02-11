@@ -1,0 +1,55 @@
+date,todofuken,air_genre_name,specific_factor
+2017-04-29,Tōkyō-to,Italian/French,1.01
+2017-04-30,Tōkyō-to,Italian/French,1.06
+2017-05-01,Tōkyō-to,Italian/French,1.00
+2017-05-02,Tōkyō-to,Italian/French,1.00
+2017-05-03,Tōkyō-to,Italian/French,1.25
+2017-05-04,Tōkyō-to,Italian/French,1.25
+2017-05-05,Tōkyō-to,Italian/French,1.25
+2017-04-29,Tōkyō-to,Dining bar,0.78
+2017-04-30,Tōkyō-to,Dining bar,0.86
+2017-05-01,Tōkyō-to,Dining bar,1.30
+2017-05-02,Tōkyō-to,Dining bar,1.30
+2017-05-03,Tōkyō-to,Dining bar,0.92
+2017-05-04,Tōkyō-to,Dining bar,0.92
+2017-05-05,Tōkyō-to,Dining bar,0.92
+2017-04-29,Tōkyō-to,Cafe/Sweets,1.05
+2017-04-30,Tōkyō-to,Cafe/Sweets,1.24
+2017-05-01,Tōkyō-to,Cafe/Sweets,1.24
+2017-05-02,Tōkyō-to,Cafe/Sweets,1.24
+2017-05-03,Tōkyō-to,Cafe/Sweets,1.70
+2017-05-04,Tōkyō-to,Cafe/Sweets,1.70
+2017-05-05,Tōkyō-to,Cafe/Sweets,1.70
+2017-04-29,Tōkyō-to,Izakaya,0.90
+2017-04-30,Tōkyō-to,Izakaya,1.10
+2017-05-01,Tōkyō-to,Izakaya,1.21
+2017-05-02,Tōkyō-to,Izakaya,1.21
+2017-05-03,Tōkyō-to,Izakaya,1.20
+2017-05-04,Tōkyō-to,Izakaya,1.20
+2017-05-05,Tōkyō-to,Izakaya,1.20
+2017-04-29,Tōkyō-to,Bar/Cocktail,0.90
+2017-04-30,Tōkyō-to,Bar/Cocktail,1.00
+2017-05-01,Tōkyō-to,Bar/Cocktail,1.26
+2017-05-02,Tōkyō-to,Bar/Cocktail,1.26
+2017-05-03,Tōkyō-to,Bar/Cocktail,1.30
+2017-05-04,Tōkyō-to,Bar/Cocktail,1.30
+2017-05-05,Tōkyō-to,Bar/Cocktail,1.30
+2017-04-29,Tōkyō-to,Japanese food,0.97
+2017-04-30,Tōkyō-to,Japanese food,1.10
+2017-05-01,Tōkyō-to,Japanese food,1.16
+2017-05-02,Tōkyō-to,Japanese food,1.16
+2017-05-03,Tōkyō-to,Japanese food,1.20
+2017-05-04,Tōkyō-to,Japanese food,1.20
+2017-05-05,Tōkyō-to,Japanese food,1.20
+2017-04-29,Ōsaka-fu,Italian/French,0.60
+2017-04-30,Ōsaka-fu,Italian/French,0.80
+2017-05-03,Hiroshima-ken,Izakaya,1.60
+2017-05-04,Hiroshima-ken,Izakaya,1.60
+2017-05-05,Hiroshima-ken,Izakaya,1.60
+2017-04-29,Fukuoka-ken,Cafe/Sweets,0.97
+2017-04-30,Fukuoka-ken,Cafe/Sweets,1.11
+2017-05-01,Fukuoka-ken,Cafe/Sweets,1.35
+2017-05-02,Fukuoka-ken,Cafe/Sweets,1.35
+2017-05-03,Fukuoka-ken,Cafe/Sweets,1.45
+2017-05-04,Fukuoka-ken,Cafe/Sweets,1.45
+2017-05-05,Fukuoka-ken,Cafe/Sweets,1.45
